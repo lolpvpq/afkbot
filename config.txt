@@ -1,6 +1,6 @@
 {
 	"ip":"Lifestealsmp191.aternos.me:58697",
-	"port": "25565",
+	"port": "58697",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
